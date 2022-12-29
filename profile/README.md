@@ -1,5 +1,26 @@
 ## Hi there 👋 this is Sembilan Cahaya Digital
 
+Paket 1 
+Domain
+Hosting
+
+Paket 2
+Domain .com
+Hosting
+Android 
+
+Paket 3
+Domain .com
+Hosting
+Android
+IOS
+
+Paket 4
+Domain .com
+Hosting
+Android
+IOS
+Desktop
 
 <!--
 
